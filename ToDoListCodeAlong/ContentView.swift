@@ -14,7 +14,7 @@ struct ContentView: View {
         VStack {
             HStack {
                 // text
-                Text("Grind time 💪")
+                Text("Grind time 💪💪")
                     .font(.system(size: 40))
                     .fontWeight(.black)
                 
